@@ -2,3 +2,11 @@ RemoteSystemsTempFiles/
 Servers/
 .metadata/
 /target/
+Atcrowdfunding-bean/target/
+Atcrowdfunding-common/target/
+Atcrowdfunding-main/target/
+Atcrowdfunding-manager-api/target/
+Atcrowdfunding-manager-impl/target/
+Atcrowdfunding-parrent/target/
+Atcrowdfunding-portal-api/target/
+Atcrowdfunding-portal-impl/target/
