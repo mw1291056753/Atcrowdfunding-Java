@@ -7,9 +7,9 @@ public class Test02 {
 		test(b);
 	}
 
-	/*
-	 * public static void test(byte b) { System.out.print("bbbb"); }
-	 */
+	
+    public static void test(byte b) { System.out.print("bbbb"); }
+	
 
 	public static void test(short s) {
 		System.out.print("ssss");
